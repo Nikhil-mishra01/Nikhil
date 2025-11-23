@@ -1,2 +1,2 @@
 # Nikhil
-This is my first repository to githun.
+This is my first repository to github.
